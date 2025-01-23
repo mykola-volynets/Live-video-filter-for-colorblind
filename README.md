@@ -9,3 +9,5 @@ Here, two lists can be seen. The first one allows the user to choose a type of d
 Here is an example of color tests before and after Tritanopia correction:
 
 ![image](https://github.com/user-attachments/assets/4c33d394-2bcb-41ad-88a7-2143dc69740d) ![Tritanope 1_23_2025 1_48_18 PM](https://github.com/user-attachments/assets/9ff5f718-27e2-43e4-9471-2ef5e66c051e)
+
+Inspiration was taken from: https://github.com/joergdietrich/daltonize
